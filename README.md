@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**AliAbdelmonem0/AliAbdelmonem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Ali+Abdelmonem)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
