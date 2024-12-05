@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Ali+Abdelmonem)](https://git.io/typing-svg)
 
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif)" alt="Pixel Art" align="right" width="200">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers-clan.com%2Fdesktop-wallpapers%2Fdragon-ball-goku-sparks-gif%2F&psig=AOvVaw0M7uHqVpkktBPJkSweWzVo&ust=1733500873223000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC64JCAkYoDFQAAAAAdAAAAABAK" align="right" width="200">
